@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Pratham-Bharade/demo/static/css/main.f855e6bc.css",
-    "main.js": "/Pratham-Bharade/demo/static/js/main.c4ce1bc3.js",
+    "main.css": "/Pratham-Bharade/demo/static/css/main.e6c13ad2.css",
+    "main.js": "/Pratham-Bharade/demo/static/js/main.a320c377.js",
     "static/js/453.9f61e4f0.chunk.js": "/Pratham-Bharade/demo/static/js/453.9f61e4f0.chunk.js",
-    "static/media/logo.svg": "/Pratham-Bharade/demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Pratham-Bharade/demo/index.html",
-    "main.f855e6bc.css.map": "/Pratham-Bharade/demo/static/css/main.f855e6bc.css.map",
-    "main.c4ce1bc3.js.map": "/Pratham-Bharade/demo/static/js/main.c4ce1bc3.js.map",
+    "main.e6c13ad2.css.map": "/Pratham-Bharade/demo/static/css/main.e6c13ad2.css.map",
+    "main.a320c377.js.map": "/Pratham-Bharade/demo/static/js/main.a320c377.js.map",
     "453.9f61e4f0.chunk.js.map": "/Pratham-Bharade/demo/static/js/453.9f61e4f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c4ce1bc3.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a320c377.js"
   ]
 }
